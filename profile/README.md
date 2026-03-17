@@ -13,11 +13,12 @@ If you want to discuss this project, you can join our Discord server [here](http
 This organization holds all the crates related to the Floresta Project, including our
 libraries, binaries and integration tools. Below is some information about each repository.
 
-| Repository | Description | Lead Maintainer | Secondary Maintainer |
-|------------|-------------|-----------------|----------------------|
-|[`floresta`](https://github.com/getfloresta/floresta) | Floresta's monorepo. Where you can find all the libraries that make up Floresta, as well as the binaries. | [Davidson Souza](https://github.com/Davidson-Souza) | |
-|[`floresta-ffi`](https://github.com/getfloresta/floresta-ffi) | Foreign Function Call assets for Floresta, built with UniFFI. | [Davidson Souza](https://github.com/Davidson-Souza) | |
-|[`floresta-nix`](https://github.com/getfloresta/floresta-nix) | Nix support for services, packages and resources for Floresta. | [jaoleal](https://github.com/jaoleal) | |
-|[`floresta-makepkg`](https://github.com/getfloresta/floresta-makepkg) | A `makepkg` script for building Floresta on `pacman`-based distros. | [Davidson Souza](https://github.com/Davidson-Souza) | |
-|[`floresta-qa-assets`](https://github.com/getfloresta/floresta-qa-assets) | Development and quality assurance assets used for Floresta's development. | [Davidson Souza](https://github.com/Davidson-Souza) | |
-|[`rpc-utreexo-bridge`](https://github.com/getfloresta/rpc-utreexo-bridge) | A simple and fast Utreexo bridge node. | [Davidson Souza](https://github.com/Davidson-Souza) | |
+| Repository                                                                | Description                                                                                              | Lead Maintainer                                     | Secondary Maintainer |
+|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------|
+| [`floresta`](https://github.com/getfloresta/floresta)                     | Floresta's monorepo. Here you can find all the libraries that make up Floresta, as well as the binaries. | [Davidson Souza](https://github.com/Davidson-Souza) |                      |
+| [`floresta-docs`](https://github.com/getfloresta/floresta-docs)           | Documentation book for the Floresta libraries, covering the architecture and code internals.             | [JoseSK999](https://github.com/JoseSK999)           |                      |
+| [`floresta-ffi`](https://github.com/getfloresta/floresta-ffi)             | Foreign Function Call assets for Floresta, built with UniFFI.                                            | [Davidson Souza](https://github.com/Davidson-Souza) |                      |
+| [`floresta-makepkg`](https://github.com/getfloresta/floresta-makepkg)     | A `makepkg` script for building Floresta on `pacman`-based distros.                                      | [Davidson Souza](https://github.com/Davidson-Souza) |                      |
+| [`floresta-nix`](https://github.com/getfloresta/floresta-nix)             | Nix support for services, packages and resources for Floresta.                                           | [jaoleal](https://github.com/jaoleal)               |                      |
+| [`floresta-qa-assets`](https://github.com/getfloresta/floresta-qa-assets) | Development and quality assurance assets used for Floresta's development.                                | [Davidson Souza](https://github.com/Davidson-Souza) |                      |
+| [`rpc-utreexo-bridge`](https://github.com/getfloresta/rpc-utreexo-bridge) | A simple and fast Utreexo bridge node.                                                                   | [Davidson Souza](https://github.com/Davidson-Souza) |                      |
